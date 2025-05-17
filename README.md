@@ -52,7 +52,8 @@ You can:
 
 ## 📸 Screenshot
 
-![Task Manager Screenshot](https://task-manager-mu-plum.vercel.app/)
+![Screenshot of Task Manager](image.png)
+
 
 *(This is what the live version looks like!)*
 
